@@ -9,6 +9,3 @@
 [![](https://visitcount.itsvg.in/api?id=vifon0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img align="left" height="350" src="https://cdn.discordapp.com/attachments/1162803627241521232/1165724672072093696/dancing-cat.gif?ex=6547e4b3&is=65356fb3&hm=99d32c19f5095a2acbee559e53d14aa20cf1ee298ba378d3f0eaff5572fb56d5&"/>
-
-
- 
