@@ -1,5 +1,5 @@
 # 🚪 Welcome to my kittyhouse!
-🎈 I’m currently learning about Kitty's<br><br>📫 Contact: 0vifon (discord)<br>
+🎈 I’m currently learning about Kitty's<br><br>📫 Contact: uwugatto. (discord)<br>
 ![](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 # 💻 Skills:
